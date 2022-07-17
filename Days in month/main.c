@@ -16,5 +16,5 @@ int main()
     else printf("28 days \n");
 
     }
-    return 0:
+    return 0;
 }
